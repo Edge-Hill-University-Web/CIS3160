@@ -1,0 +1,8 @@
+setuptools
+pandas
+numpy
+sciPy
+matplotlib
+seaborn
+apache-log-parser
+ipykernel
