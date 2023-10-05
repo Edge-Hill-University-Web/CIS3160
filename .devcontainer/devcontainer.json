@@ -40,7 +40,8 @@
 				"ms-python.python",
 				"ms-python.vscode-pylance",
 				"janisdd.vscode-edit-csv",
-				"donjayamanne.python-extension-pack""ms-toolsai.jupyter",
+				"donjayamanne.python-extension-pack",
+				"ms-toolsai.jupyter",
 				"ritwickdey.LiveServer"
 			]
 		}
